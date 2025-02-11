@@ -8,3 +8,8 @@ function square(number) {
 console.log(square(x));
 console.log(square(y));
 console.log(square(55));
+console.log(square(123));
+
+for (let i=0; i<5; i++){
+    console.log('i is: ' + i);
+}
